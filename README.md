@@ -10,9 +10,9 @@ I combine a lot from Epoch: “Parameter, Compute and Data Trends in Machine Lea
 The hope is after it's done AI alignment, forecasters, and people interested in AI can check this website/paper to see "where are we in AI as of today and the history/trends". Also, researchers can easily download and reference the data. Potentially the average person could look at the AI progress that's been made over the years and possibly take AI alignment more seriously.
 
 <p align="center">
-  <img width="1000" img src="Website/references/images/0001.jpg">
+  <img width="1000" img src="Website/references/images/Collection_of_Data_on_AI_Progress.html#tab1-1.png">
 </p>
 
 <p align="center">
-  <img width="1000" img src="Website/references/images/0002.jpg">
+  <img width="1000" img src="Website/references/images/Collection_of_Data_on_AI_Progress.html#tab1-2.png">
 </p>
