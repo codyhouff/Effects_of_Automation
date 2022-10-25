@@ -1,6 +1,6 @@
-# Collection of Data on AI Progress as of 2022 (Still Rough/Work in Progress)
+# Collection of Data on AI Progress as of 2022 (Work in Progress)
 
-Download and open the html file in the zip file to view website
+Download and open the html file in the zip file to view website. Keep in mind it is a work in progress so it is still rough.
 
 <p align="center">
   <img width="700" img src="for_readme/robot_project_pic_1.jpg">
